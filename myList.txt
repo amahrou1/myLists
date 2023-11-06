@@ -1,5 +1,7 @@
 50x.html
 conf
+wp-login.php?action=register
+wp-admin/install.php
 conf/
 conf/fastcgi_params
 conf/fastcgi.conf
