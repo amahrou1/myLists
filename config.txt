@@ -1,0 +1,1345 @@
+context/%2e/WEB-INF/web.xml
+etc/logstash/logstash.yml
+env.development.js
+env.production.js
+env.test.js
+env.dev.js
+env.prod.js.git/logs/HEAD
+.git/COMMIT_EDITMSG
+.git/logs/refs/heads/master
+.git/config
+config.php~
+.git/FETCH_HEAD
+.git/logs/HEAD
+.git/logs/refs/remotes/origin/master
+.git/refs/heads/master
+.git/refs/remotes/origin/master
+log/access.log
+log/error.log
+log/php_errorlog
+nginx.conf
+static/nginx.conf
+phpMyAdmin/index.php?db=information_schema
+phpmyadmin/index.php?db=information_schema
+phpinfo.php/
+.git/HEAD/
+.git/config/
+.git/logs/HEAD/
+.git/refs/tags/
+client/list
+php_info.php
+infophp.php
+test.php
+i.php
+logs/npm-debug.log
+logs/npm.log
+logs/yarn-debug.log
+logs/yarn.log
+asdf.php
+pinfo.php
+linusadmin-phpinfo.php
+php-info.php
+time.php
+public/config.js
+.ftpconfig
+phpstan.neon
+info.php
+php.php 
+static../.git/config
+js../.git/config
+images../.git/config
+img../.git/config
+css../.git/config
+assets../.git/config
+content../.git/config
+events../.git/config
+media../.git/config
+lib../.git/config
+apache.conf
+horde/admin/user.php
+etc/gitlab/gitlab.rb
+admin/user.php
+wp-config.php
+.wp-config.php.swp 
+wp-config.php.swp 
+wp-config-sample.php 
+wp-config.inc
+wp-config.old 
+wp-config.txt 
+wp-config.php.txt
+wp-config.php.bak 
+wp-config.php.dist
+wp-config.php.inc
+wp-config.php.html
+wp-config-backup.txt
+wp-config.php.orig
+wp-config.php.original
+_wpeprivate/config.json
+wp-config.php.old 
+server-status?full
+server-info
+cgi-bin/user/Config.cgi
+cgi-bin/user/Config.cgi?.cab&action=get&category=Account.*
+.gitignore
+backup/
+assets/.gitignore
+conf/grafana.ini
+etc/grafana/grafana.ini
+etc/grafana/grafana.cfg
+.hg/hgrc
+.gitlab-ci.yml
+includes/.gitignore
+config/.env
+config/.env.
+api/auth/keys
+api/auth/keys/
+api/auth/keys/*
+jquery-file-upload/server/php/
+pagespeed_admin/
+public/plugins/welcome/../../../../../../../../../../../../../../../../../../../etc/passwd
+mysql.initial.sql 
+prometheus
+_vti_bin/lists.asmx?WSDL 
+apps/system/config/.tidy.-1.json?.css
+bin/querybuilder.json?path=/apps/system/config&p.hits=full&p.limit=-1?.js
+crx/de/index.jsp?.js
+crx/explorer/browser/index.jsp?.css
+crx/packmgr/index.jsp?.json
+bin/querybuilder.json?fulltext=web&p.limit=300&p.start=1?.html
+bin/querybuilder.json?p.hits=selective&p.properties=jcr%3alastModifiedBy&property=jcr%3alastModifiedBy&property.operation=unequals&property.value=admin&type=nt%3abase&p.limit=1000&p.start=1?.js
+libs/granite/core/content/login.html?.ico
+etc/reports/diskusage.html?.html
+bin/querybuilder.json.;%0aa.css?path=/home&p.hits=full&p.limit=-1
+bin/querybuilder.json.;%0aa.css?path=/etc&p.hits=full&p.limit=-1
+bin/querybuilder.json.css?path=/home&p.hits=full&p.limit=-1
+bin/querybuilder.json.css?path=/etc&p.hits=full&p.limit=-1
+miscadmin
+wpeprivate/config.json
+mcmadmin#/content/dashboard
+miscadmin#/etc/mobile
+miscadmin#/etc/segmentation
+_debugbar/open?max=20&offset=0
+miscadmin#/etc/blueprints
+miscadmin#/etc/designs
+var/www/html/wp-config.php
+wp-config.php-backup
+php-fpm.conf 
+%c0
+index.php.bak
+wp-admin/setup-config.php?step=1
+wp-includes/rss-functions.php
+wp-admin/install.php
+wp-json/wp/v2/lesson/1
+backend_dev.php/
+wp-content/plugins/boldgrid-backup/cli/env-info.php
+backend.php/
+miscadmin#/etc/importers
+miscadmin#/etc/reports
+miscadmin#/etc/msm/rolloutconfigs
+//crx///de///index.jsp?.css
+//bin///querybuilder.json?fulltext=web&p.limit=300&p.start=1?.html
+configs/.env
+configs/.env.*
+conf/.env
+conf/.env.*
+configuration/.env
+configuration/.env.*
+settings/.env
+settings/.env.*
+private/.env
+private/.env.*
+secrets/.env
+secrets/.env.*
+env.$APP_ENV.local
+BitKeeper/etc/config
+.bzr/branch/branch.conf 
+elasticsearch
+.env.dist
+.env.live
+api/.env
+wd/hub
+storage/
+_vti_bin/Authentication.asmx?op=Mode
+api_smartapp/storage/
+equipbid/storage/
+server/storage/
+intikal/storage/
+elocker_old/storage/
+localhost.key
+host.key
+www.key
+private-key
+privatekey.key
+server.key
+my.key
+key.pem
+ssl/localhost.key
+id_rsa
+id_dsa
+server-status
+.ssh/id_rsa
+.ssh/id_dsa
+sftp-config.json
+sftp.config
+sftp.conf
+sftp.cfg
+*.conf
+deployment-config.json
+zenphoto/zp-core/setup/index.php
+ftpsync.settings
+.bash_history
+.ksh_history
+.sh_history
+.zsh_history
+angel.php
+c100.php
+c99.php
+cyberwarrior.php
+dq99.php
+kacak.php
+laund.aspx
+netcat.php
+r57.php
+shell.aspx
+shellupload
+simattacker.php
+tryag.php
+uploadshell.php
+zehir4.asp
+023.jsp
+12309.php
+1427683968524.jpg
+1.png
+2.png
+3fexe Shell.asp
+3.png
+404 infiltrate team.asp
+404 Not Found.php
+404.php
+404super.php
+404webshell.php
+45233.py
+4.png
+529.php
+about.txt
+ACat.jar
+ACat_jdk1.5.jar
+ACat-src.zip
+accept_language.php
+Adminer - Compact database management.php
+Ajax_PHP Command Shell.php
+Ajax_PHP_Command_Shell.php
+AK-74.php
+AK-74 Security Team.php
+AK-74 Security Team Web Shell Beta Version.php
+alfa3.php
+all-repos.txt
+Andela 1C3 v3 (Private Release 2017).php
+andela.php
+Ani-Shell.php
+anonexploitershell.php
+Antak Webshell.aspx
+Antichat Shell. Modified by Go0o$E.php
+Antichat Shell.php
+Antichat_Shell.php
+Antichat Shell v1.3.php
+Antichat_Shell_v1.3.php
+Antichat Socks5 Server v 1.0.php
+applypatch-msg.sample
+Aria cPanel cracker version 1.0 - Edited By KingDefacer.php
+A robust backdoor script made by Daniel Berliner.php
+Asp_Aspx_Php_V1.jpg
+Asp_Aspx_Php_V2.jpg
+ASP_Client.html
+ASP Cmd Shell On IIS 5.1.asp
+ASP.NET Web BackDoor.aspx
+AspRootkit 1.0 by BloodSword.asp
+aspSH.v1.asp
+asp wget drag database.asp
+ASPX
+ASPX one line Code Client by amxku.aspx
+aspxshell.aspx
+ASPX Shell.aspx
+AspxSpy2014Final.aspx
+ASPXspy.aspx
+ASPXspy by NightRunner.aspx
+aspydrv.php
+ASPYDrvsInfo.asp
+ASPYDrvsInfo.php
+audit_null.c
+audit_null.patch
+autoroot.php
+ava Server Faces MiniWebCmdShell 0.2 by HeartLESS.php
+AventGrup-Sincap 1.0.php
+Aventis KlasVayv 1.0.asp
+awen asp.net webshell.aspx
+Axis2Shell-master.zip
+axis2 利用小工具cat.aar.zip
+axis2 利用小工具cat.pdf
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.php
+Ayyildiz Tim  -AYT- Shell v 2.1 Biz.txt
+Ayyildiz_Tim.php
+Ayyildiz Tim Shell (Private Shell 2017).php
+azrail 1.0 by C-W-M.php
+aZRaiLPhp v1.0.php
+aZRaiLPhp_v1.0.php
+B374k Beta ShElL V1.php
+b374k-mini-shell.php
+b374k-mini-shell-php.php
+b374k-mini-shell-php.php.php
+b374k.php.php
+b374kv2.1.php
+b374v2.8-b374k.php
+Back Connect.php
+backdoor.c
+backdoorfr.php
+Backdoor php v0.1 Coded By Charlichaplin.php
+BackerHack JSP Manage-System 1.0.jsp
+Backup script on server.php
+backupsql.php
+base64.jspx
+base64.md
+bayz21-priv-shell-v1.php
+bayz21-priv-shell-v2.php
+bayz21-priv-shell-v3.php
+bdotw44shell.php
+bdshell.php
+berandal-owlsquad.php
+bitwise.php
+BLaSTER.php
+bloodsecv4.php
+Bnkqbakq.php
+boffmax_v1.0_web_shell_by_the-c0de_team(1).php
+by Bagheera.jsp
+by EJDER.asp
+bypass403.php
+bypass529.php
+bypass-iisuser-p.asp
+bypass_RCE_php.gif
+bypass safemodel.php
+by.php
+c0derz shell [csh] v. 0.1.1 release.php
+c0derz_shell.php
+c999shell.php
+c99_locus7s.php
+c99_madnet.php
+C99madShell v. 2.0 madnet edition.php
+c99ud.php
+c99_webshell.php
+caidao-20141213.zip
+caidao-20160622.zip
+caidao.jsp
+Carbylamine PHP Encoder.php
+CasuS 1.5.php
+CasuS-1.5.php
+cat.jar
+cat.jsp
+cat.jspx
+cfexec.cfm
+cfmShell.cfm
+cfSQL.cfm
+cgi-python.py
+cgitelnet.php
+Cgitelnet.pl
+changelog
+CHANGELOG
+change.php
+Changing CHMOD Permissions Exploit.php
+client1.php
+client2.php
+client.php
+client.py
+Client.py
+cls_Base.php
+CmdAsp.asp
+cmd.c
+cmd.cfm
+cmd.jpg
+cmdjsp.jsp
+cmd.jspx
+cmd.php
+cmd.pl
+CmdServlet.java
+cmd.sh
+cmdsql.aspx
+cmfshell.cmf
+Code by Bin.aspx
+code.php
+ColdFusion.chm
+Command.aspx
+Command Execution (win32).jsp
+Command Shell.php
+commit-msg.sample
+compat
+Con7ext-Shell-V.2-l o l.php
+config
+config.aar
+config.h
+config.inc.php
+configkillerionkros.php
+config.m4
+Confusion to encrypt php webshell.php
+console.py
+control
+Coppermine Photo Gallery = 1.4.3 remote cmmnds xctn.php
+COPYING
+copyright
+cpanel.php
+CrystalShell.php
+CrystalShell v.1.php
+css1.jsp
+css.jsp
+Customize.asmx
+customize.js
+Customize.soap
+cw.php
+cybershell.php
+Cyber Shell.php
+Cyber Shell (v 1.0).php
+CyberSpy5.Asp
+d00r_py3.py
+darkBC.py.txt
+DAws.php
+db_mysql.class.php
+db_mysql_error.inc.php
+dC3 Security Crew Shell PRiV.php
+dC3_Security_Crew_Shell_PRiV.php
+dC3_Security.php
+dc.pl
+DDoS attack.php
+Deface Keeper 0.2.php
+demo.gif
+description
+dev_core.php
+devilzShell.asp
+devilzShell.aspx
+devilzShell.cgi
+devilzShell.jsp
+devilzShell.php
+devshell.asp
+devshell.cfm
+devshell.md
+Dive_Shell_1.0_Emperor_Hacking_Team.php
+Dive Shell 1.0 - Emperor Hacking Team.php
+Dive_Shell.php
+DJ团队.asp
+download 下载文件.asp
+DTool Pro.php
+DTool_Pro.php
+Dx.php
+easy-simple-php-webshell.php
+Edited By KingDefacer.php
+EgY_SpIdEr ShElL V2.php
+Elmali Seker.asp
+ELMALISEKER Backd00r.asp
+Engineers Security (Private PHP Shell 2017).php
+enum-ssh.py
+erne.php
+ex0shell.php
+exampleOutput.csv
+exclude
+exim.pl
+Expdoor.com ASP专用小马.asp
+exp.php
+fatal.php
+FaTaL Shell v1.0 - Edited By KingDefacer.php
+filesystembrowser.aspx
+File upload.asp
+fileupload.aspx
+findsock.c
+forever5pi.asp
+format
+from_the_wild1.php
+fsmonitor-watchman.sample
+ftpsearch.php
+functions.c
+functions.h
+g00nshell-v1.3.php
+Gamma Web Shell.cgi
+Gamma Web Shell.php
+Gamma_Web_Shell.php
+gdog.py
+get.php
+GetShell.html
+gfs_sh.php
+GFS_web-shell.php
+GFS web-shell ver 3.1.7 - PRiV8.php
+GFS_web-shell_ver_3.1.7_-_PRiV8.php
+gif87a.jpg
+gif89a.asp
+gif89a.jpg
+.gitmodules
+GO.cgi.pl
+go-shell.php
+GRP WebShell 2.0 release build 2018 (C)2006,Great.php
+GRP_WebShell.php
+G-Security-Webshell.php
+h4ck_Door.asp
+h4ntu_shell.php
+h4ntu shell [powered by tsoi].php
+h4ntu_shell_[powered_by_tsoi].php
+hahahaha小马.JSp
+handshake-84^%9F^%B5^%64^%32^%BB.cap
+HEAD
+hec.aspx
+hector-uploader.php
+hiddens_shell.php
+hiddens shell v1.php
+hideme.cpp
+hkmjj.asp
+hmass (priv8 mass defacor).pl
+Hypn.ashx
+I-47 v1.3.php
+ice.cfm
+icmpsh.exe
+icmpsh-m.c
+icmpsh-m.pl
+icmpsh_m.py
+icmpsh-s.c
+img.jpg
+iMHaPFtp.php
+include.ashx
+includer.php
+includer.txt
+inc.pl
+index
+inDEXER And ReaDer.asp
+index.htm
+index.php
+indoxploit-mass-defacer.php
+IndoXploit.php
+I.N.F HACKING CENTER.asp
+__init__.py
+ironshell.php
+jav-shellv1.1-maqlo.php
+jca.php
+JFIF.asp
+JFIF.jpg
+JFoler 1.0.jsp
+jpg_payload.php
+jshell ver 0.1.jsp
+jshell ver 1.0.jsp
+JSP Backdoor Reverse Shell.jsp
+JspDo Code By Xiao.3.jsp
+JspHelper Codz By - Leo.jsp
+jsp.jpg
+jspshell.jsp
+JSP Shell 岁月联盟专用版本.jsp
+JspSpy Codz By - Ninty_1.jsp
+JspSpy Codz By - Ninty.jsp
+JspSpy.jsp
+jspspy.jspx
+jspspy_k8.jsp
+JspSpy Private Codz By - Ninty_encode.jsp
+JspSpy Private Codz By - Ninty.jsp
+JspTqz.jsp
+JspWebshell_1.2.php
+jspx.jspx
+jspy.jsp
+JSRat.ps1
+k2ll33d.php
+ka0tic.pl
+KAdot Universal Shell v0.1.6.php
+KAdot_Universal_Shell_v0.1.6.php
+KA_uShell 0.1.6.php
+KA_uShell_0.1.6.php
+Knull Shell.php
+kolang-bypass.php
+kral.php
+kuda-encoded.php
+lamashell.php
+lamashell v. 3.0.php
+LICENSE
+LICENSE.html
+LICENSE.md
+LICENSE.txt
+license.zip
+lifkaS.php
+list.cer
+list.cfm
+listfile.php
+list.pl
+ListServlet.java
+list.sh
+litteryi.txt
+litteryixx.ASP
+livehack.py
+liveterm.py
+Liz0ziM Private Safe Mode Command Execuriton Bypass Exploit.php
+llehs.py
+Loaderz WEB Shell.php
+Loaderz_WEB_Shell.php
+Loaderz WEB Shell v 0.1.0.2.php
+load_shell.php
+logger.py
+logger小马.jsp
+login.jsp
+lolipop-encoded.php
+lolipop.php
+Lolipop.php - Edited By KingDefacer.php
+lostDC-encoded.php
+lostDC.php
+lostDC shell.php
+LOTFREE PHP Backdoor v1.5.php
+lurm_safemod_on.cgi.pl
+MackersPrivatePHPShell-encoded.php
+Mackers Private PHPShell.php
+Mackers_Private_Shell.php
+make2.php
+Makefile
+MANIFEST.MF
+master
+matamu-encoded.php
+Matamu Mat.php
+matamu.php
+megabor-encoded.php
+megabor.php
+Micro_Webshell.php
+mima_abcd.jpg
+mini.php
+mmm.php
+mod_joomla_shell.zip
+moon_1php.php
+MoroccanSpamersMa-EditioNByGhOsT-encoded.php
+Moroccan Spamers Ma-EditioN By GhOsT.php
+Moroccan_Spamers_Ma-EditioN_By_GhOsT.php
+Moroccan_Spamers.php
+MSF_README
+msf_webacoo_module.rb
+mssql.asp
+mssql.aspx
+mycode12.cfm
+myshell-encoded.php
+myshell.php
+MyShell.php
+mysql.aspx
+Mysql Database.jsp
+Mysql interface v1.0.php
+Mysql_interface_v1.0.php
+mysql_tool.php
+Mysql udf by M4ster.php
+MySQL_Web_Interface.php
+MySQL Web Interface Version 0.8.php
+MySQL Web Shell.php
+navicat_tunnel.php
+NCC-Shell-encoded.php
+NCC-Shell.php
+NCC Shell v1.0.0.php
+NetworkFileManagerPHP.php
+NGH-encoded.php
+NGH.php
+ngx_http_pwnginx.c
+nobody-uploader.php
+Non-alphanumeric.php
+nshell-encoded.php
+nshell.php
+nShell v1.0.php
+nsT View.php
+NTDaddy  v1.9.asp
+NTDaddy v1.9.php
+NTDaddy_v1.9.php
+ntunnel_mysql.php
+obfuscated-punknopass.php
+one1.jsp
+one.jsp
+one.war
+oo.jpg
+openfire-test_plugin.zip
+Oracle Database.jsp
+oracle.jsp
+oracle.txt
+pack-0dc52c0081f0a5e15ac36dd3b67b08096466add8.idx
+pack-0dc52c0081f0a5e15ac36dd3b67b08096466add8.pack
+pack-6a5fbf3093c3c63aa794c842cf9da81dc956d2cd.idx
+pack-6a5fbf3093c3c63aa794c842cf9da81dc956d2cd.pack
+pack-9663d2056a711a277a7baac04d882d23f6efb993.idx
+pack-9663d2056a711a277a7baac04d882d23f6efb993.pack
+packed-refs
+pas.php
+Password Hasher for PHP Shell 2.1.php
+paxmac.jspx
+perlcmd.cgi
+perl-reverse-shell.pl
+Perl Web Shell by RST-GHC.pl
+PHANTASMA-encoded.php
+PHANTASMA.php
+php-backdoor-encoded.php
+php-backdoor.php
+Php Backdoor v 1.0 by ^Jerem.php
+php-findsock-shell.php
+php-include-w-shell.php
+phpinfo.php
+pHpINJ-encoded.php
+pHpINJ.php
+PHPJackal v1.9.php
+php MySQL Database Backup Script.php
+phppng.png
+PHPRemoteView.php
+php-reverse-shell.php
+phpshell17.php
+PhpShell 2.0.php
+PHP-Shell-Detector-master.zip
+PHPShell-encoded.php
+PHP Shell.php
+PHP_Shell.php
+PhpSpy.php
+PhpSpy Ver 2006.php
+phpwebbackup.php
+PHP Web Shell by oTTo.php
+php-web-shell.php
+php-webshells.txt
+PHVayv-encoded.php
+PH Vayv.php
+PH_Vayv.php
+PHVayv.php
+Phyton Shell.py
+ping.c
+PinoyLULZSecPrivateShell2017.php
+pnbak.css
+pnbak.js
+post-update.sample
+pps-v1.0.pl
+pps-v3.0.pl
+pps-v3.5.pl
+pps-v4.0.pl
+pre-applypatch.sample
+pre-commit.sample
+Predator-encoded.php
+Predator.php
+pre-merge-commit.sample
+prepare-commit-msg.sample
+pre-push.sample
+pre-rebase.sample
+pre-receive.sample
+print.png
+Private x0rg Web Hosting Bypass.php
+punkholic.php
+punk-nopass.php
+pwnginx
+pwnginx.c
+pwnginx.h
+pwnginx-master.zip
+pwnshell - an interactive jsp shell.jsp
+pws.php
+pyspy.py
+qsd-backdoor.php
+qsd-php-backdoor.php
+r00ts小组过防火墙马.asp
+r00ts无FSO组建大马.asp
+r57.biz Dq99Shell.php
+r57_iFX.php
+r57_kartal.php
+r57_Mohajer22.php
+r57shell127.php
+r57shell.php
+r57shell v.1.42 - Edited By KingDefacer.php
+radhat.asp
+rcpexp.pl
+README
+readme.md
+readme.MD
+Readme.md
+README.md
+readme.txt
+Readme.txt
+RedHat Hacker.asp
+reGeorg-master.zip
+reGeorgSocksProxy.py
+Remote Explorer.asp
+remot shell.pl
+requirements.txt
+response_packet_from_icmpsh_slave_containing_output_of_command_whoami.png
+reverseshell-poc.php
+revsshclient.py
+revsshserver.py
+RHTOOLS 1.5 BETA(PVT).asp
+RHTOOLS 1.5 BETA(PVT) Edited By KingDefacer.asp
+robot.php
+robots.php
+rootshell.php
+Rootshell.v.1.0-encoded.php
+Rootshell.v.1.0.php
+ru24_post_sh.php
+rules
+running_icmpsh_master_on_attacker_machine.png
+running_icmpsh_slave_on_target.png
+run.sh
+s72_Shell.php
+s72 Shell v1.0 Codinf by Cr@zy_King.php
+s72 Shell v1.1 Coding.php
+s72_Shell_v1.1_Coding.php
+safe0ver.php
+Safe0ver_Shell.php
+Safe0verShell-SafeModBypassByEvilc0der-encoded.php
+Safe0ver Shell -Safe Mod Bypass By Evilc0der.php
+Safe mode breaker.php
+Safe_Mode_Bypass.php
+Safe_ModeBypassPHP4.4.2andPHP5.1.2-encoded.php
+Safe_Mode Bypass PHP 4.4.2 and PHP 5.1.2.php
+Safe_Mode_Bypass_PHP_4.4.2_and_PHP_5.1.2.php
+scanner.php
+sctp_reverse.py.txt
+securityghost-priv-Zero5.php
+Security House - Shell Center - Edited By KingDefacer.php
+server1.php
+server2.php
+server.php
+server.py
+Server.py
+Server Variables.asp
+servlet-api-3.04.jar
+setup.py
+shell.ascx
+Shell [ci] .Biz was here.php
+shellcode_generate.py
+Shell Commander.php
+shell.jpg
+shell.jsp
+SHOR7CUTShellBETAKILLERencoded.php
+sidedoor
+sidedoor.default
+sidedoor.dirs
+sidedoor.docs
+sidedoor.install
+sidedoor.links
+sidedoor.postinst
+sidedoor.postrm
+sidedoor.service
+sidedoor.upstart
+Silic Group_cgi.pl
+Silic Group Hacker Army - BlackBap.Org.php
+Silic Group.jsp
+Silic Group php Webshell v3.php
+Silic Group_readme.txt
+SimAttacker.php
+SimAttacker - Version  1.0.0 - Edited By KingDefacer.php
+SimAttacker-Version1.0.0-encoded.php
+SimAttacker - Vrsion 1.0.0 - priv8 4 My friend.php
+simple-backdoor.php
+simple_cmd.php
+Simple_PHP_backdoor_by_DK-encoded.php
+Simple_PHP_backdoor_by_DK.php
+simple-php-backdoor.php
+Simple_PHP_backdoor.php
+simple-upload.php
+simple-uploadv2.php
+Simple-Webshell.php
+SimShell1.0-SimorghSecurityMGZ-encoded.php
+SimShell 1.0 - Simorgh Security MGZ.php
+SimShell_1.0_-_Simorgh_Security_MGZ.php
+SimShell.php
+Sincap1.0-encoded.php
+Sincap 1.0.php
+Sincap_1.0.php
+SJavaWebManageV1.4.jsp
+small.php
+Small Shell - Edited By KingDefacer.php
+SmallWebShellbyZaCo-encoded.php
+Small Web Shell by ZaCo.php
+Small_Web_Shell.php
+smevk.php
+smtpd.py
+sniffer.php
+SnIpEr_SA Shell.php
+socket_live8.py
+socks5.h
+soldierofallah.php
+sosyete.php
+Sosyete Safe Mode Bypass Shell - Edited By KingDefacer.php
+Spider PHP Shell (SPS-3.0).php
+spjspshell.jsp
+spygrup.php
+SQL.aspx
+ssh_client_config_example
+sshUsernameEnumExploit.py
+SST Sheller.php
+stdafx.h
+STNC WebShell v0.8.php
+STNC_WebShell_v0.8.php
+Stored Procedure Execute.aspx
+stres.php
+struct.py
+Stupidc0de Shell (2017).php
+sudoers
+sure.php
+sym.php
+sys32.php
+t57shell.php
+telnet.cgi.pl
+telnet.pl
+test3693.war
+test.ear
+test_rsa.key
+test.war
+TODO
+toolaspshell.php
+toto
+Tracker.txt
+tunnel.ashx
+tunnel.aspx
+tunnel.js
+tunnel.jsp
+tunnel.php
+tunnel.tomcat.5.jsp
+udpio.py
+up.asp
+update.sample
+upfile_write.asp
+upfile_write.rar
+Uploader.php
+Uploading.php
+up.php
+up.pl
+UpServlet.java
+up.sh
+usage.txt
+Utils.java
+view.aspx
+W3D Shell.php
+webacoo.pl
+WebAdmin 2.X Final.aspx
+Webcommander by Cr4sh_aka_RKL v0.3.9 NGH edition.php
+webllehs.py
+Web Shell.asp
+WebShell.cgi.pl
+Web-shell (c)ShAnKaR.php
+web-shell.php
+WebShell.php
+webshell.rb
+WebSniff 1.0  Powered by  C.C.T.aspx
+Web Sniffer.aspx
+web.xml
+Welcome To AK Team.asp
+wh_bindshell.py
+WHO AM I - MZRP105 (Private PHP Shell).php
+Win MOF Shell.php
+WinX Shell.php
+WinX_Shell.php
+w-list.txt
+wordpress backdoor.php
+Wordpress Mass Defacer (FUD 2017).php
+WordPress Shell.php
+Worse Linux Shell.php
+Worse_Linux_Shell.php
+Worse Linux Shell.php.php
+wp-conf.php
+wp-conten1_pass_KoR345Ker78DSa.php
+write_asp_file.ashx
+write_aspx_file.ashx
+WSO2.7 404 Error Web Shell.php
+wso2.7.php
+wso2.8.5.php
+wso2.8.php
+wso.aspx
+wso-latest.php
+wwwolf-webshell.php
+www.zjjv.com.php
+xl.cfm
+xml.asp
+xml.aspx
+xml.php
+xnonymoux_webshell_ver_1.0.php
+xshock-0.1.tar.gz
+xslt.asp
+xslt.aspx
+xslt.php
+xssshell-xsstunnell.zip
+xx.ashx
+XXOO.jsp
+xxooxx.aspx
+xx.php
+xx.png
+xynu-Normal University.asp
+z8VSmO1418105414843.jpg
+zaco.php
+zacosmall.php
+zehir4.php
+ZehirIV.asp
+zend_config.w32.h
+zip.func.php
+ZoRBaCK Connect.php
+ZyklonShell.php
+cgi-bin/status 
+actuator
+api/actuator/env
+appenv
+actuator/autoconfig
+autoconfig
+beans
+actuator/beans
+.svn/entries
+WEB-INF/web.xml
+etc/ssh/sshd_config
+.ssh/known_hosts
+.ssh/known_hosts.old
+.ssh/authorized_keys
+_/.ssh/authorized_keys
+gateway/routes
+actuator/gateway/routes
+actuator/auditevents
+actuator/auditLog
+actuator/caches
+actuator/conditions
+actuator/configprops
+actuator/configurationMetadata
+actuator/dump
+actuator/env
+actuator/events
+actuator/exportRegisteredServices
+actuator/features
+actuator/flyway
+actuator/health
+actuator/healthcheck
+actuator/heapdump
+actuator/httptrace
+actuator/hystrix.stream
+actuator/info
+info
+actuator/integrationgraph
+actuator/jolokia
+actuator/liquibase
+actuator/logfile
+actuator/loggers
+actuator/loggingConfig
+actuator/management
+actuator/mappings
+actuator/metrics
+actuator/refresh
+actuator/registeredServices
+actuator/releaseAttributes
+actuator/resolveAttributes
+actuator/scheduledtasks
+actuator/sessions
+actuator/shutdown
+actuator/springWebflow
+actuator/sso
+actuator/ssoSessions
+actuator/statistics
+actuator/status
+actuator/threaddump
+actuator/trace
+auditevents
+cloudfoundryapplication
+configprops
+dump
+env
+health
+heapdump
+hystrix.stream
+jolokia
+jolokia/list
+:8090/jolokia
+:8090/jolokia/list
+loggers
+management
+mappings
+metrics
+threaddump
+trace
+caches
+.build.sh
+httptrace
+.jenkins.sh
+.travis.sh
+api/heapdump
+actuator/api/heapdump
+cabinet/stripeapi/actuator/heapdump
+install.sh
+update.sh
+config.sh
+build.sh
+setup.sh
+backup.sh
+compile.sh
+env.sh
+init.sh
+startup.sh
+wp-setup.sh
+deploy.sh
+aws.sh
+common/config.php.new
+config.php.new
+_vti_pvt/service.pwd 
+tcpconfig.html
+config/parameters.yml
+parameters.yml
+config.properties
+config.rb
+config/config.rb
+deploy/config.rb
+config.js
+api/config.js
+app/config.js
+config/config.js
+web/config.js
+src/config.js
+src/api/config.js
+web/api/config.js
+.config.inc.php.swo
+.config.inc.php.swp
+backup.config.inc.php
+config.inc.php - Copy.php
+Copy.php
+config.inc.php copy.php
+config.inc.php_backup
+config.inc.php_good
+wp-content/debug.log
+debug/config.xml
+phpldapadmin/index.php
+phpldapadmin/cmd.php
+config.php.old
+config.php.bak
+config.php.zip
+config.php.tar.gz
+wp-config.PHP 
+gitlab-ci.yml
+.env
+web.config
+logs/
+logs/user.txt
+.git/index/
+setup/index.php
+phpmyadmin/setup/index.php
+phpmyadmin/scripts/setup.php
+config.php
+.pnp
+.pnp.js
+.DS_Store
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.firebase
+debug.log
+.vscode
+authDump.json
+data.json
+data_auth.json
+data_clear.json
+sample_employees_csv.csv
+Access_log
+debug_log
+Config_JCR.json.0x%A.html
+api/index.php/v1/config/application?public=true
+config/database.yml
+opt/config/database.yml
+var/config/database.yml
+var/company_name/config/database.yml
+old/config
+config.inc.php_bk
+admin.tar.gz
+adminconsole/
+adminconsole/install.htm
+status?full
+config/const.DB.php.bak
+admin/people
+phpMyAdminOLD/setup/index.php
+env/.config
+.env/config
+.env.example
+docker-compose.yml
+errorlog
+web.zip
+Debug
+Adminer
+Release.zip
+wp-config.old
+𝘄𝗽-𝗹𝗼𝗴𝗶𝗻?𝗮𝗰𝘁𝗶𝗼𝗻=𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿
+wp-login.php?𝗮𝗰𝘁𝗶𝗼𝗻=𝗿𝗲𝗴𝗶𝘀𝘁𝗲𝗿
+config.inc.php-backup
+config.inc.php-backup.php
+config.inc.php-backup.txt
+config.inc.php-backup1.txt
+wp-content/themes/.git/config
+config.inc.php-good
+config.inc.php-sample.php
+wp-content/plugins/.git/config 
+config.inc.php-sample.php.bak
+config.inc.php-sample.php~
+config.inc.php.backup
+config.inc.php.bak
+config.inc.php.bkp
+config.inc.php.cfg
+config.inc.php.conf
+config.inc.php.data
+config.inc.php.dump
+config.inc.php.htm
+config.inc.php.html
+config.inc.php.local.php
+config.inc.php.old
+config.inc.php.old.old
+config.inc.php.ORG
+config.inc.php.orig
+config.inc.php.original
+config.inc.php_
+config.inc.php__
+config.inc.php______
+config.inc.php__olds
+config.inc.php_1
+config.inc.php_bak
+config.inc.php_new
+config.inc.php_old
+config.inc.php_old2017
+config.inc.php_old2018
+config.inc.php_old2019
+config.inc.php_old2020
+config.inc.php_orig
+config.inc.php_original
+config.inc.php-
+config.inc.php-bak
+config.inc.php-n
+config.inc.php-o
+config.inc.php-old
+config.inc.php-original
+config.inc.php-save
+config.inc.php-work
+config.inc.php.0
+config.inc.php.1
+config.inc.php.2
+config.inc.php.3
+config.inc.php.4
+config.inc.php.5
+config.inc.php.6
+config.inc.php.7
+config.inc.php.9
+config.inc.php.a
+config.inc.php.aws
+config.inc.php.azure
+config.inc.php.b
+config.inc.php.backup.txt
+config.inc.php.bk
+config.inc.php.c
+config.inc.php.com
+config.inc.php.cust
+config.inc.php.dev
+config.inc.php.in
+config.inc.php.local
+config.inc.php.maj
+config.inc.php.new
+config.inc.php.org
+config.inc.php.php-bak
+config.inc.php.prod
+config.inc.php.production
+config.inc.php.sample
+config.inc.php.save
+config.inc.php.save.1
+config.inc.php.stage
+config.inc.php.staging
+config.inc.php.swn
+config.inc.php.swo
+config.inc.php.swp
+config.inc.php.tar
+config.inc.php.temp
+config.inc.php.tmp
+config.inc.php.txt
+config.inc.php.uk
+config.inc.php.us
+config.inc.php=
+config.inc.php~
+config.inc.php~~~
+config.inc.php1
+config.inc.phpa
+config.inc.phpb
+config.inc.phpbak
+config.inc.phpc
+config.inc.phpd
+config.inc.phpn
+config.inc.phpnew
+config.inc.phpold
+config.inc.phporiginal
+config.inc.phptmp
+config.inc.php.prod.php.txt
+config.inc.php.zip
+.config.inc.php.bck
+config.inc.php.back
+config.inc.php.copy
+config.inc.php.dat
+config.inc.php.db
+config.inc.php._inc
+config.inc.php.bck
+config.inc.php.tar.gz
+config.inc.php.test
+config.inc.php_inc
+config/default.json
+config.json
+config/config.json
+credentials/config.json
+composer.json
+composer.lock
+.composer/composer.json
+vendor/composer/installed.json
+.composer-auth.json
+vendor/webmozart/assert/.composer-auth.json
+settings.php.bak
+settings.php.dist
+settings.php.old
+settings.php.save
+settings.php.swp
+settings.php.txt
+zp-core/setup/index.php
+zp/zp-core/setup/index.php
+gallery/zp-core/setup/index.php
+password.cgi
+pools/default/buckets
+_users/_all_docs
+_config
+mysql_config.ini
+assets/env.js
+weaver/ln.FileDownload?fpath=../ecology/WEB-INF/web.xml
+Api/portal/elementEcodeAddon/getSqlData?sql=select%20@@version
+routes/error_log
+.vscode/ 
+environment.rb
+config/environment.rb
+redmine/config/environment.rb
+_profiler
+sqlite/
+_profiler/empty/search/results?limit=10
+sqlitemanager/
+.svn/prop-base/
+.svn/text-base/
+_darcs/prefs/binaries
+env.js
+_vti_bin/Authentication.asmx?op=Mode 
+profile
+ api/profile
+ alps/profile
+ - .bak
+backup.old
+backup.zip
+backup.tar
+backup.tar.gz
+backup.tar.bz2
+backup.tar.xz
+backup.7z
+backup.rar
+backup.gz
+backup.bz2
+backup.xz
+backup.sql
+backup.db
+backup.bak
+backup.swp
+backup.save
+backup.sav
+backup.copy
+backup.backup
+backup.orig
+backup.tmp
+backup.temp
+backup.test
+backup.demo
+backup.dev
+backup.sample
+backup.example
+backup.config
+backup.conf
+backup.log
+backup.txt
+backup.doc
+backup.docx
+backup.xls
+backup.xlsx
+backup.ppt
+backup.pptx
+backup.pdf
+backup.csv
